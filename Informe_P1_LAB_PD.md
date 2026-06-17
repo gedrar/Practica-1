@@ -1,6 +1,6 @@
 # Informe de Pràctica 1: Blink
-**Autors** Julio Lázaro Alcobendas i Gerard Rodríguez González
-**Data:** 24 de Febrer de 2026
+**Autors** Julio Lázaro Alcobendas i Gerard Rodríguez González  
+**Data:** 24 de Febrer de 2026  
 **Repositori GitHub:** https://github.com/gedrar/Practica-1
 
 
